@@ -1,0 +1,8 @@
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+Enter a: Enter r: Enter n: The generated sequence: 
+2
+8
+32
+128
+512
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:

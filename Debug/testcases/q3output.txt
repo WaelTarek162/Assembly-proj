@@ -1,0 +1,9 @@
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+SIMPLE IS ALMOST CORRECT
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+THEIR IS CORRECT
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+WINDOWS IS WRONG
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+ASSEMBLYY IS ALMOST CORRECT
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:

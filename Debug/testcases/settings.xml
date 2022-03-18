@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoGrader>
+  <Configurations>
+    <ExeFileConfig path="Project.exe" inputDelay="100" asmFileName="main"/>
+  </Configurations>
+  <Questions>
+        <Question nametag="Q1" grade="1" actualOutputPath="actual\q1.txt" testCasePath ="testcases\q1.txt" expectedOutputPath="testcases\q1output.txt" timeLimit="500"/>
+    <Question nametag="Q2" grade="1" actualOutputPath="actual\q2.txt" testCasePath ="testcases\q2.txt" expectedOutputPath="testcases\q2output.txt" timeLimit="500"/>
+<Question nametag="Q3" grade="1" actualOutputPath="actual\q3.txt" testCasePath ="testcases\q3.txt" expectedOutputPath="testcases\q3output.txt" timeLimit="500"/>
+<Question nametag="Q4" grade="1" actualOutputPath="actual\q4.txt" testCasePath ="testcases\q4.txt" expectedOutputPath="testcases\q4output.txt" timeLimit="500"/>
+<Question nametag="Q5" grade="1" actualOutputPath="actual\q5.txt" testCasePath ="testcases\q5.txt" expectedOutputPath="testcases\q5output.txt" timeLimit="500"/>
+<Question nametag="Q6" grade="1" actualOutputPath="actual\q6.txt" testCasePath ="testcases\q6.txt" expectedOutputPath="testcases\q6output.txt" timeLimit="500"/>
+
+  </Questions>
+</AutoGrader>

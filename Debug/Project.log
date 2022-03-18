@@ -1,0 +1,21 @@
+﻿  
+  INFO: No tasks running with the specified criteria.
+  Assembling main.asm...
+  Project.vcxproj -> E:\Ain Shams Matrials\term 1 level 3\assembly\Project_Template_StudentVersion\Debug\Project.exe
+  ######################################################################
+  ##                       AUTOGRADER STARTED!!                       ##
+  ######################################################################
+  
+  Q1 result: Success
+  Q2 result: Success
+  Q3 result: Success
+  Q4 result: Failure
+  Q5 result: Success
+  Q6 result: Success
+  
+  TOTAL GRADE: 5 OUT OF 6
+  
+  ######################################################################
+  ##               AUTOGRADING FINISHED SUCCESSFULLY!!                ##
+  ######################################################################
+  

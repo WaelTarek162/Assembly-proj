@@ -1,0 +1,4 @@
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
+Enter the number of intervals N: Enter the N intervals: 
+The input number exists the following number of times in the N intervals: 3
+Please enter question number 1, 2, 3, 4, 5, 6 or enter 0 to exit:
